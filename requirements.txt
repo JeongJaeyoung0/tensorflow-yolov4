@@ -1,9 +1,4 @@
-tensorflow==2.1.0
-opencv-python==4.1.1.26
-lxml
-tqdm
-absl-py
-matplotlib
-easydict
+tensorflow-gpu
+pencv-python
 pillow
-tensorflow_addons==0.9.1
+absl-py
