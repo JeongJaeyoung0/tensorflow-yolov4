@@ -1,4 +1,4 @@
 tensorflow-gpu
-pencv-python
+opencv-python
 pillow
 absl-py
